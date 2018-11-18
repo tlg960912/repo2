@@ -9,4 +9,7 @@ public class GitTest {
         System.out.println("男枪");
         System.out.println("螳螂");
     }
+    public void test(){
+        System.out.println("方的一笔");
+    }
 }
